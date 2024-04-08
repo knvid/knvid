@@ -3,4 +3,4 @@
 - 🌱 I’m currently earning a Master of Science in Bioinformatics at Georgia Tech
 - 💞️ I’m looking to collaborate on projects related to machine learning applications in biology and bioinformatics
 - 📫 How to reach me: https://www.linkedin.com/in/vidhya-kewale-8459511a2
-- ⚡ Fun fact: I am currently reading Daisy Jones & The Six by Taylor Jenkins Reid
+- ⚡ Fun fact: I am currently reading A Court of Mist and Fury
