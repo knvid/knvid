@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi, I’m @knvid
+👋 Hi, I’m @knvid \
 👀 I’m interested in machine learning, computational biology, bioinformatics, music, and books
 🌱 I’m currently earning a Master of Science in Bioinformatics at Georgia Tech
 💞️ I’m looking to collaborate on projects related to machine learning applications in biology and bioinformatics
